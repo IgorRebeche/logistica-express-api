@@ -7,5 +7,4 @@ import uva.logisticaexpress.logisticaexpress.models.Delivery;
 public class DeliveryResponse {
     Delivery delivery;
     String extraInformation;
-
 }
